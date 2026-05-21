@@ -1,6 +1,6 @@
 # AuraFlow — Multimodal Video Intelligence System
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mitravinda7/AuraFlow/blob/main/AuraFlow_final_v2_fixed.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mitravinda7/AuraFlow/blob/main/AuraFlow_final_v2.ipynb)
 
 ## 🔑 API Keys Setup
 This notebook uses Colab Secrets (never hardcoded).
